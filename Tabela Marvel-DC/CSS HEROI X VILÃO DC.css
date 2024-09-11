@@ -1,0 +1,56 @@
+body{
+    background-size: cover;
+    background-image: url(https://encurtador.com.br/vqIqR);
+}
+h1{
+    top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+    z-index: 1000;
+    font-size: xx-large;
+    position: fixed;
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+h2{ 
+    text-align: left;
+    margin-top: 500px;
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.herois{
+    object-fit: cover;
+    position: absolute;
+    right: 330px;
+    padding: 10px;
+    box-shadow: 1px 1px 5px black;
+    background-color: aliceblue;
+}
+.vilões{
+    object-fit: cover;
+    position: absolute;
+    left: 360px;
+    padding: 10px;
+    box-shadow: 1px 1px 5px black;
+    background-color: aliceblue;
+}
+.text1{
+    background-color: aliceblue;
+    display: inline-block; /* Comportamento de bloco inline */
+    padding: 5px;
+    text-align: center; /* Centraliza o texto horizontalmente */
+    margin-left: 500px;
+    margin-top: 200px; /* Espaço entre a div e o texto */
+    color: red;
+}
+.text2 {
+    background-color: aliceblue;
+    display: inline-block; /* Comportamento de bloco inline */
+    padding: 5px;
+    text-align: center;
+    margin-left: 330px;
+    margin-top: 200px; /* Espaço entre a div e o texto */
+    color: blue;
+}

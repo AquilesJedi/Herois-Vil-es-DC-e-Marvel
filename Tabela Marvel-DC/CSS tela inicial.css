@@ -1,0 +1,72 @@
+body{
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87e645d6-28ac-43f9-b646-d97225fdc68a/d24945n-440e7c60-9c9a-4924-9204-314bf2d45c18.png/v1/fit/w_828,h_518,q_70,strp/marvel_comics_by_kortos117_d24945n-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvODdlNjQ1ZDYtMjhhYy00M2Y5LWI2NDYtZDk3MjI1ZmRjNjhhXC9kMjQ5NDVuLTQ0MGU3YzYwLTljOWEtNDkyNC05MjA0LTMxNGJmMmQ0NWMxOC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.dNN4pjaz0b_nDbr-78ctyIwAijMdpnQQf2xUiO2iw5k);
+    display: flex;
+    height: 100vh;
+    margin: 0;
+}
+
+.marvel{
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    position: absolute;
+    right: 330px;
+    padding: 10px;
+    box-shadow: 1px 1px 5px black;
+    background-color: aliceblue;
+}
+
+.dc{
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    position: absolute;
+    left: 360px;
+    padding: 10px;
+    background-color: aliceblue;
+    box-shadow: 1px 1px 5px black;
+    
+}
+
+.titulo{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0; /* Cor de fundo */
+    text-align: center;
+    z-index: 1000;
+    font-size: xx-large;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container img {
+    margin: 0 10px;
+}
+
+.texto {
+    
+    display: inline-block; /* Comportamento de bloco inline */
+    padding: 5px;
+    text-align: center; /* Centraliza o texto horizontalmente */
+    margin-left: 500px;
+    margin-top: 330px; /* Espaço entre a div e o texto */
+    color: blue;
+}
+
+.texto2 {
+  
+    display: inline-block; /* Comportamento de bloco inline */
+    padding: 5px;
+    text-align: center;
+    margin-left: 370px;
+    margin-top: 330px; /* Espaço entre a div e o texto */
+    color: crimson;
+}

@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dca0448f-8783-4038-9486-7842be908673/d2omjfc-f400b589-2851-41aa-9f8d-82c6d084ed76.jpg/v1/fill/w_1197,h_667,q_70,strp/bat_villains_by_sinccolor_d2omjfc-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjY4IiwicGF0aCI6IlwvZlwvZGNhMDQ0OGYtODc4My00MDM4LTk0ODYtNzg0MmJlOTA4NjczXC9kMm9tamZjLWY0MDBiNTg5LTI4NTEtNDFhYS05ZjhkLTgyYzZkMDg0ZWQ3Ni5qcGciLCJ3aWR0aCI6Ijw9MTE5OCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.T-A18Qbyfp6MiP2ilY0LS-fVU95HhXEuVMzerkdmnQ0);
+}
+
+header{
+    background-color: rgba(215, 236, 255, 0.418);
+    padding: 30px;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: x-large;
+}
+
+table{
+    position: absolute;
+    border-top: 50%;
+    left: 50%;
+    transform: translate(-50%, 5%);
+    border-radius: 20px;
+    background-color: rgba(215, 236, 255, 0.418);
+    height: 50%;
+    width: 50%;
+}
+
+button{
+    border-radius: 40px;
+    background-color: red;
+    width: 100px;
+    height: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}

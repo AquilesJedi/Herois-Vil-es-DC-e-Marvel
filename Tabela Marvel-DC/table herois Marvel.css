@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1584efe1-6338-437a-a571-f03c2beb17ef/da2rhzh-db237559-0c86-4bd7-9d1a-db6568b21963.jpg/v1/fill/w_1024,h_723,q_75,strp/civil_war__what_if___by_bryanvalenza_da2rhzh-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIzIiwicGF0aCI6IlwvZlwvMTU4NGVmZTEtNjMzOC00MzdhLWE1NzEtZjAzYzJiZWIxN2VmXC9kYTJyaHpoLWRiMjM3NTU5LTBjODYtNGJkNy05ZDFhLWRiNjU2OGIyMTk2My5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.PB59HHiTx9C3kTkcv992glRUvSwmGCFWJwxXr-9a8So);
+}
+
+header{
+    background-color: rgba(215, 236, 255, 0.418);
+    padding: 30px;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: x-large;
+}
+
+table{
+    position: absolute;
+    border-top: 50%;
+    left: 50%;
+    transform: translate(-50%, 5%);
+    border-radius: 20px;
+    background-color: rgba(215, 236, 255, 0.418);
+    height: 50%;
+    width: 50%;
+}
+
+button{
+    border-radius: 40px;
+    background-color: crimson;
+    width: 100px;
+    height: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}

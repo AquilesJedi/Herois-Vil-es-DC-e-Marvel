@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/49ec1464-d899-400a-b608-c48c76b500d2/d8i8p2o-152cd4fa-274c-42fd-aaf0-7fba4fd7d2e9.jpg/v1/fill/w_1286,h_621,q_70,strp/marvel_villains_by_patrickbrown_d8i8p2o-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTY2IiwicGF0aCI6IlwvZlwvNDllYzE0NjQtZDg5OS00MDBhLWI2MDgtYzQ4Yzc2YjUwMGQyXC9kOGk4cDJvLTE1MmNkNGZhLTI3NGMtNDJmZC1hYWYwLTdmYmE0ZmQ3ZDJlOS5qcGciLCJ3aWR0aCI6Ijw9MjAwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.dNZy1Dp2JR8dOJq28_Etrs-W5efCNZEMlyDrDJySW3I);
+}
+
+header{
+    background-color: rgba(215, 236, 255, 0.418);
+    padding: 30px;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: x-large;
+}
+
+table{
+    position: absolute;
+    border-top: 50%;
+    left: 50%;
+    transform: translate(-50%, 5%);
+    border-radius: 20px;
+    background-color: rgba(215, 236, 255, 0.418);
+    height: 50%;
+    width: 50%;
+}
+
+button{
+    border-radius: 40px;
+    background-color: blue;
+    width: 100px;
+    height: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
